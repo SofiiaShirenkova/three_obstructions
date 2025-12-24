@@ -284,3 +284,7 @@ main {
   gap: 15%;
   
 }
+
+.link_to_download_a_material{
+  text-decoration: underline ;
+}
